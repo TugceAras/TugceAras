@@ -17,7 +17,7 @@
 <a href="https://www.java.com/tr/"><img src="https://winxptalk.com/wp-content/uploads/2020/10/PROBLEME-AVEC-JAVA-SUR-WINDOWS-10.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://developer.android.com/kotlin?gclid=CjwKCAjw2P-KBhByEiwADBYWCj9PZozFM6B7v1kSwtYw9TUYMvOwDzOA5Loc9xMdfolCjDYu9esCQBoCPesQAvD_BwE&gclsrc=aw.ds"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/02/256px-kotlin-logo-svg.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.python.org/"><img src="https://absurtus.files.wordpress.com/2010/02/python.png?w=584" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.learn-c.org/"><img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" style="width:35px;height: 35px" hspace="5"></a>
 
 
-## :point_down: **Tools I use**
+## :point_down: **Tools I Use**
 <a href="https://developer.android.com/studio"><img src="http://goongloo.com/wp-content/uploads/2021/08/Android-Studio-Logo-Android-Emulator-Goongloo.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://firebase.google.com/"><img src="https://firebaseopensource.com/logo-small.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.sqlite.org/index.html"><img src="https://api.nuget.org/v3-flatcontainer/sqlite.redist/3.8.4.2/icon" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads"><img src="https://martinsblog.dk/wp-content/uploads/2021/07/sql-logo.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.jetbrains.com/idea/"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" style="width:35px;height: 35px" hspace="10"></a>
 
 

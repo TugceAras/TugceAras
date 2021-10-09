@@ -23,7 +23,7 @@
 <a href="https://developer.android.com/studio"><img src="http://goongloo.com/wp-content/uploads/2021/08/Android-Studio-Logo-Android-Emulator-Goongloo.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://firebase.google.com/"><img src="https://firebaseopensource.com/logo-small.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.sqlite.org/index.html"><img src="https://api.nuget.org/v3-flatcontainer/sqlite.redist/3.8.4.2/icon" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads"><img src="https://martinsblog.dk/wp-content/uploads/2021/07/sql-logo.png" style="width:35px;height: 35px" hspace="5"></a><a href="https://www.jetbrains.com/idea/"><img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" style="width:35px;height: 35px" hspace="10"></a><a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/assets/apple-touch-icon.png" style="width:35px;height: 35px" hspace="5"></a>
 
 
-## :link: **Social Media**
+## :link: **Contact**
 <a href="https://www.linkedin.com/in/tugce-aras-22049419b/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/256px-Linkedin_Shiny_Icon.svg.png" style="width:35px;height: 35px" hspace="5"></a>
 
 

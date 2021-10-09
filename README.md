@@ -1,4 +1,4 @@
-# ***<p align="center"> 👋 println(" Hi, I’m Tugce Aras ")***<br><br>
+# ***<p align="center"> 👋 println(" Hi , I’m Tugce Aras ")***<br><br>
 
 <img align="right" src="https://media0.giphy.com/media/l378zf8b3gdqqVjIQ/giphy.gif?cid=790b7611d39ddba212879b2352a6d80bbd34534cc428c1dd&rid=giphy.gif&ct=g">
 

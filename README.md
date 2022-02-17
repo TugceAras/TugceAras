@@ -4,12 +4,12 @@
     
 <img align="right" src="https://media0.giphy.com/media/l378zf8b3gdqqVjIQ/giphy.gif?cid=790b7611d39ddba212879b2352a6d80bbd34534cc428c1dd&rid=giphy.gif&ct=g">
 
-## **:blush: Who am I ?** 
+## **:blush: Who am I ** 
 - I am a 4th year Computer Engineering student at Pamukkale University.<br>
 - I am a software lover.<br>
 - I am a person who loves nature and animals very much.<br>
 
-## **:point_right: What am I doing ?**
+## **:point_right: What am I doing **
 - I am working on Android mobile application development.<br>
 - Since I love to design, I am also trying to improve myself in the field of UI.<br>
 - I develop mobile application projects with my teachers whose trainings I attended.

@@ -5,7 +5,7 @@
 <img align="right" src="https://media0.giphy.com/media/l378zf8b3gdqqVjIQ/giphy.gif?cid=790b7611d39ddba212879b2352a6d80bbd34534cc428c1dd&rid=giphy.gif&ct=g">
 
 ## **:blush: Who am I** 
-- I am a 4th year Computer Engineering student at Pamukkale University.<br>
+- I am a 4th year Computer Science student at Pamukkale University.<br>
 - I am a software lover.<br>
 - I am a person who loves nature and animals very much.<br>
 

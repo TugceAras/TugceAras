@@ -32,9 +32,13 @@
 ## :link: **Contact**
 | Linkedin | Medium | Mail
 | :-: | :-: | :-:
-|<img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="android" width="41" height="41"/>|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="kotlin" width="43" height="43"/>|<img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="java" width="43" height="43"/>
+|<a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-aras-22049419b/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="android" width="41" height="41"/></a>|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="kotlin" width="43" height="43"/>|<img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="java" width="43" height="43"/>
 
-
+<!-- Design Tool -->
+## :link: **Design Tool I Use**
+| Figma |
+| :-: |
+|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="android" width="43" height="43"/>|<img align="center" 
 
 <!---
 TugceAras/TugceAras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

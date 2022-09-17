@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- Header -->
 ![GithubBannerSonHali](https://user-images.githubusercontent.com/79931228/190847945-04e59a54-a091-4858-b55e-300764b3ca29.png)
 <br><br><br>
 
@@ -38,7 +38,7 @@
 ## 🔸Design Tool I Use
 | Figma |
 | :-: |
-|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="android" width="41" height="41"/>|<img align="center" 
+|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="figma" width="41" height="41"/>|<img align="center" 
 
  <!-- Footer -->
  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">

@@ -35,7 +35,7 @@
 |<a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-aras-22049419b/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="linkedin" width="41" height="41"/></a>|<a href="https://tugce-aras.medium.com/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="medium" width="43" height="43"/></a>|<a href="mailto:aras.tugcee@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="mail" width="43" height="43"/></a>
 
 <!-- Design Tool -->
-## :link: **Design Tool I Use**
+## 🔸Design Tool I Use
 | Figma |
 | :-: |
 |<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="android" width="43" height="43"/>|<img align="center" 

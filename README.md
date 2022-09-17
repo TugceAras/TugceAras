@@ -1,5 +1,5 @@
 <!-- Header -->
-![GithubBannerSonHali](https://user-images.githubusercontent.com/79931228/190847945-04e59a54-a091-4858-b55e-300764b3ca29.png)
+![GithubBannerSonHali3](https://user-images.githubusercontent.com/79931228/190871759-1d0b871f-c8ef-4e0c-af16-8579525efce7.png)
 <br><br><br>
 
 <!-- Typing Mode -->

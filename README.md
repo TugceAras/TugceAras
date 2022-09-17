@@ -6,7 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=7000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1333&lines=Welcome+to+my+Github+Profile+%F0%9F%99%83)](https://git.io/typing-svg)
 <br><br>
 ---
-<br><br>
+<br>
+
 <!-- Gif --> 
 <img align="right" height="300" width="350" src="https://media.giphy.com/media/nZjJ3iPXpmRwI/giphy.gif">
 
@@ -25,10 +26,9 @@
 
 | Android | Kotlin | Java | Firebase | SQLite | IntelliJ | Postman | Git 
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: 
-|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" alt="intellij" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" width="43" height="43"/>|<img align="center" 
+|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="43" height="43"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="37" height="37"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/10/logo_zjwX5FR.png" alt="intellij" width="40" height="40"/>|<img align="center" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/11/logo-mark.png" alt="postman" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" width="43" height="43"/>|<img align="center" 
 
 <!-- Contact -->
-
 ## :link: **Contact**
 | Linkedin | Medium | Mail
 | :-: | :-: | :-:
@@ -38,7 +38,7 @@
 ## 🔸Design Tool I Use
 | Figma |
 | :-: |
-|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="android" width="43" height="43"/>|<img align="center" 
+|<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="android" width="41" height="41"/>|<img align="center" 
 
 <!---
 TugceAras/TugceAras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

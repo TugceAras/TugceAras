@@ -40,6 +40,9 @@
 | :-: |
 |<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="android" width="41" height="41"/>|<img align="center" 
 
+ <!-- Footer -->
+ <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+                                                                                                                               
 <!---
 TugceAras/TugceAras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->

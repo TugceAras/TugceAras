@@ -41,7 +41,7 @@
 |<a href="https://www.linkedin.com/in/tu%C4%9F%C3%A7e-aras-22049419b/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" alt="linkedin" width="41" height="41"/></a>|<a href="https://tugce-aras.medium.com/"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="medium" width="43" height="43"/></a>|<a href="mailto:aras.tugcee@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" alt="mail" width="43" height="43"/></a>
 
  <!-- Footer -->
- <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+ <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
                                                                                                                                
 <!---
 TugceAras/TugceAras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

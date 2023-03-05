@@ -9,7 +9,7 @@
 <br>
 
 <!-- Gif --> 
-<img align="right" height="300" width="350" src="https://media.giphy.com/media/nZjJ3iPXpmRwI/giphy.gif">
+<img align="right" height="300" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmMyNDM0YThlYmI2ZjVjZDhhOWJlYmUzMWI2M2YxMjE2NmRiYmVlMCZjdD1n/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 ## 🔸Who am I
 - I graduated from Pamukkale University | Computer Engineering<br>

@@ -19,7 +19,7 @@
 ## 🔸What am I doing
 - I am working on Android mobile application development.<br>
 - Since I love to design, I am also trying to improve myself in the field of UI.<br>
-- I develop mobile application projects with my teachers whose trainings I attended.
+- I try to improve myself by attending trainings.
 
 
 ## 🔸Languages and Tools I Use
